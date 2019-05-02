@@ -63,5 +63,4 @@ function gameRules () {
   risultati_display(ricerca, limiti);
 
 }
-
 gameRules();
